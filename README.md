@@ -23,11 +23,8 @@
 
 ### https://r7.whiteboardfox.com/76806510-4712-4849
 
-<p align="center"> <img src= "https://files.catbox.moe/vc7gmb.png"width="460" height="280">
-<img src= "https://files.catbox.moe/doj56m.png"width="460" height="280">
-<img src= "https://files.catbox.moe/lsfqa1.png"width="460" height="280">
-<img src= "https://files.catbox.moe/5e208h.png"width="460" height="280">
-<img src= "https://files.catbox.moe/l1ix7m.png"width="460" height="280">
+<p align="center"> <img src= "https://files.catbox.moe/l1ix7m.png"width="460" height="280"> <img src= "https://files.catbox.moe/vc7gmb.png"width="460" height="280"> <img src= "https://files.catbox.moe/doj56m.png"width="460" height="280"> <img src= "https://files.catbox.moe/lsfqa1.png"width="460" height="280"> <img src= "https://files.catbox.moe/5e208h.png"width="460" height="280">
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pangolin&size=30&duration=1&pause=400&color=98BB13&center=true&multiline=true&repeat=false&width=435&lines=FANART+CORNER)](https://git.io/typing-svg)
 
