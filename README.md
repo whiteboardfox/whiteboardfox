@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pangolin&size=30&duration=1&pause=400&color=98BB13&center=true&multiline=true&repeat=false&width=435&height=40&lines=CURRENTLY+ACTIVE+WBF%3A)](https://git.io/typing-svg)
 
-#  https://r2.whiteboardfox.com/25754839-4009-6089
+#  x
 
 <p align="center"> <img src="https://files.catbox.moe/9vj7gq.png">
   
@@ -21,7 +21,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pangolin&size=20&duration=1&pause=400&color=98BB13&center=true&multiline=true&repeat=false&width=435&height=25&lines=LATEST+WBF%3A)](https://git.io/typing-svg)
 
-### https://r9.whiteboardfox.com/96100071-9089-6293
+###  https://r2.whiteboardfox.com/25754839-4009-6089
 
 <p align="center"> <img src= "https://files.catbox.moe/9n92yh.png"width="260" height="180"> <img src= "https://files.catbox.moe/l1ix7m.png"width="260" height="180"> <img src= "https://files.catbox.moe/vc7gmb.png"width="260" height="180"> <img src= "https://files.catbox.moe/doj56m.png"width="260" height="180"> <img src= "https://files.catbox.moe/lsfqa1.png"width="260" height="180"> <img src= "https://files.catbox.moe/5e208h.png"width="260" height="180">
 
