@@ -30,7 +30,8 @@
 
 <p align="center"> <img src= "https://files.catbox.moe/bawbc8.png"width="160" height="160"> 
  <img src= "https://files.catbox.moe/lowjbm.png"width="160" height="160"> 
- <img src= "https://files.catbox.moe/zbsmbx.png"width="210" height="160"> </p>
-<div align="center">
+ <img src= "https://files.catbox.moe/zbsmbx.png"width="210" height="160">
+<img src= "https://files.catbox.moe/bkdptf.png"width="180" height="160">
+<img src= "https://files.catbox.moe/ry4tkx.png"width="150" height="160"> </p>
   
   <p align="center"> <img src="https://files.catbox.moe/zbu2ww.png"width="60" height="60">
