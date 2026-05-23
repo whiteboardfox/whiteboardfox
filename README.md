@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pangolin&size=30&duration=1&pause=400&color=98BB13&center=true&multiline=true&repeat=false&width=435&height=40&lines=CURRENTLY+ACTIVE+WBF%3A)](https://git.io/typing-svg)
 
-#  x
+#  🖌 https://r7.whiteboardfox.com/76826691-0538-4247
 
 <p align="center"> <img src="https://files.catbox.moe/9vj7gq.png">
   
